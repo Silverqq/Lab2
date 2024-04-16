@@ -30,7 +30,7 @@ public class Program
         while (true)
         {
             dayInput = Console.ReadLine();
-            if (dayInput == "1" | dayInput == "2" | dayInput == "3"|
+            if (dayInput == "0" | dayInput == "1" | dayInput == "2" | dayInput == "3"|
                 dayInput == "4" | dayInput == "5" | dayInput == "6")
             {
                 break;
